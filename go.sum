@@ -1,0 +1,4 @@
+github.com/coin-or/Cbc v0.0.0-20250416105528-8740e0ee1f8a h1:cyqzb+rLKOXkEOKwZ/n+Zk9zbJzyT7E0I5k3Kq5t2zE=
+github.com/coin-or/Cbc v0.0.0-20250416105528-8740e0ee1f8a/go.mod h1:UkqoagyxvBswgICeZy3yuF3v39hLe2Yur1f5DZ+h+Bk=
+github.com/lukpank/go-glpk v0.0.0-20180303121012-2e64496cbbfa h1:Yw0xrf0Et15qHHMQevm9HXyxhaUZasVrWQ3Qz2ogT+c=
+github.com/lukpank/go-glpk v0.0.0-20180303121012-2e64496cbbfa/go.mod h1:KEQoE37Z9T1bOAfFP0+yjmcgGabWf6j32MA+z6QmkhA=
