@@ -1,7 +1,3 @@
-Berikut adalah contoh **README** untuk proyek di GitHub yang memuat penjelasan tentang tujuan proyek, bagaimana cara menjalankan kode, dan lainnya.
-
----
-
 # **Optimasi Penjadwalan Shift Pegawai dengan Pemrograman Linear Integer**
 
 Proyek ini bertujuan untuk mengembangkan model optimasi penjadwalan shift pegawai di minimarket menggunakan pendekatan **Pemrograman Linear Integer (ILP)**. Model ini mengalokasikan pegawai ke shift (Pagi, Siang, Malam) dengan **minimisasi biaya total**.
@@ -115,11 +111,3 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini, buat
 4. Lakukan perubahan dan commit
 5. Push perubahan ke repositori forked Anda
 6. Ajukan pull request ke repositori utama
-
-## **Lisensi**
-
-Proyek ini dilisensikan di bawah **MIT License** – lihat [LICENSE.md](LICENSE.md) untuk detail lebih lanjut.
-
----
-
-Dengan **README** ini, pengguna dapat dengan mudah memahami tujuan proyek, cara instalasi, dan cara menjalankan aplikasi, serta mendapatkan contoh output dan instruksi untuk berkontribusi. Apakah ada hal yang ingin ditambahkan atau diperbarui?
